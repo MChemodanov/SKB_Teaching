@@ -17,7 +17,6 @@ int main()
         else
             cout << str1[0] << size-2 << str1[size - 1];
     }
-
-
     return 0;
 }
+
